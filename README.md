@@ -1,2 +1,3 @@
-# hello-world
-ex aula
+#hello world
+
+Hi i'm Adérito Castro
